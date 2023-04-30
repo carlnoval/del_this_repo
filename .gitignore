@@ -1,0 +1,5 @@
+# sensitive information
+.env
+
+# macOS ignores
+.DS_Store
