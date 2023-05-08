@@ -23,7 +23,7 @@ assignees: ''
 - a
 
 **More Notes**
-- a
+- Optional: Provide more notes if necessary
 
 **Related PR(s)**
 - a
