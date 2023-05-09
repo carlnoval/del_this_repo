@@ -1,6 +1,6 @@
 ---
 name: Bug Report Template
-about: Use the template as a guide when submitting bug reports.
+about: Use this template as a guide when submitting bug reports.
 title: 'Page/Feature: Short Issue description'
 labels: ''
 assignees: ''
