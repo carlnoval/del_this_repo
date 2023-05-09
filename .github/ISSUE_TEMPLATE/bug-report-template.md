@@ -22,7 +22,7 @@ assignees: ''
 - a
 
 **More Notes**
-- Optional: Provide more notes if necessary
+- Optional: Provide more notes if necessary, eg: specifying the customer's pain point
 
 **Related PR(s)**
 - #insert_pr_number
